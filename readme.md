@@ -41,4 +41,4 @@ PotatoCSS is licensed under the [**MIT License**](license.md).
 
 [**PotatoCSS**](https://github.com/PotatoCSS/PotatoCSS) was created as a [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) project by [**Edvins Antonovs**](https://twitter.com/edvinsantonovs).
 
-Big thanks to all the [**contributors**](graphs/contributors) who work and have worked on PotatoCSS.
+Big thanks to all the [**contributors**](../../graphs/contributors) who work and have worked on PotatoCSS.
