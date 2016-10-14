@@ -1,4 +1,4 @@
-<img align="center" src="logo.png" alt="PotatoCSS" />
+<p align="center"><img src="logo.png" alt="PotatoCSS" /></p>
 <h3 align="center">PotatoCSS</h3>
 <p align="center"><small><code>Simple CSS framework for hackers. Simple as potato.</code></small></p>
 
